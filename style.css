@@ -1,0 +1,20 @@
+body{
+    background-image: url(img/pattern.png);
+}
+.iconCarrito{
+    font-size: 2rem;
+    color: #198754;
+    cursor: pointer;
+}
+.total{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.carrito{
+    background-color: #F8F9FA;
+}
+.gracias{
+    color: blue;
+    font-weight: bold;
+    text-transform: uppercase;
+}
